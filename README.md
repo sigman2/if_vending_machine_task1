@@ -9,3 +9,5 @@ Tests can be executed through Visual Studio's Unit Tests section.
 ## Comments
 
 As understood it was not required to have UI or any user interface for vending machine. Of course if needed it could be implemented for examlpe using Command-line interface or forms.
+
+There are no validations and exceptions for admin functions - products can be added or updated with any name, price and available quantity.
